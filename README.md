@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any companies and single developers.
 - 📫 How to reach me:
-- + 7 978 604 25-43 (What's App, Telegram
+- 7 978 604 25-43 (What's App, Telegram)
 - maksimturskiy@gmail.com (my mail)
 
 <!---
